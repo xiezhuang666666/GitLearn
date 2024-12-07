@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-reset
-=======
->>>>>>> parent of 6a577db (Update test4.txt)
+远程解决冲突
